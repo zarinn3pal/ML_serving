@@ -1,2 +1,2 @@
-numpy
-flask
+numpy==1.24
+flask==2.3
